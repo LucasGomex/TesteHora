@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Aluno: Lucas Gomes dos Santos
 public class TesteHora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
