@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Aluno: Lucas Gomes dos Santos
 
 public class Hora {
     private int hora;
